@@ -1,6 +1,6 @@
 # Hi, I'm Shih-Hong 👋
 
-I recently completed my master's in Computer Science and Engineering at NYCU. I mainly work on recommender systems and software engineering.
+I recently completed my master's in Computer Science and Engineering at National Yang Ming Chiao Tung University (NYCU). I mainly work on recommender systems and software engineering.
 
 ### Research
 - **[LSF-SR](https://github.com/ckt77/LSF-SR) · CIKM 2026 · First author**  
